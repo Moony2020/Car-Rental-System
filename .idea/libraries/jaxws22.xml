@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="jaxws22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/FastInfoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/javax.mail_1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/streambuffer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

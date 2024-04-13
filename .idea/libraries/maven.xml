@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="maven">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/lucene-highlighter-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/maven-dependency-tree-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/indexer-core-6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/lucene-analyzers-common-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/lucene-queryparser-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/maven/lucene-core-5.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

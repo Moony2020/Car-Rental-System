@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="spring-4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-oxm-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-core-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-beans-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-webmvc-portlet-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-jdbc-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-websocket-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-context-support-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-aspects-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-messaging-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-orm-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-expression-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-web-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-context-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-webmvc-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-tx-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-instrument-tomcat-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-jms-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-test-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-aop-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/spring-4/spring-instrument-4.3.29.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

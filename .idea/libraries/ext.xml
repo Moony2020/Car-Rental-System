@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ext/httpcore5-h2-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/httpcore5-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.lsp4j-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/httpclient5-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/nb-mod-jshell-probe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/byte-buddy-1.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/nb-custom-jshell-probe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.xtend.lib.macro-2.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.xtext.xbase.lib-2.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org-netbeans-modules-java-j2seembedded-probe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.lsp4j.jsonrpc.debug-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.lsp4j.jsonrpc-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/discoclient-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.xtend.lib-2.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.lsp4j.debug-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/org.eclipse.lsp4j.generator-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/fakeJdkClasses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/checker-qual-3.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

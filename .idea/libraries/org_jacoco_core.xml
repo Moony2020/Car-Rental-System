@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.jacoco.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/gradle/org.jacoco.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

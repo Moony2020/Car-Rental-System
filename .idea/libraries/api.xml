@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/api/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/api/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/api/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ext/jaxws22/api/saaj-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
